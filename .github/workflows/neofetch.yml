@@ -1,0 +1,37 @@
+name: Generate Neofetch Card
+
+on:
+  schedule:
+    - cron: "0 3 * * *"     # daily at 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_neofetch.py"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: Dhanesh10war
+        run: python scripts/generate_neofetch.py
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/neofetch.svg
+          git diff --quiet --cached || git commit -m "chore: refresh neofetch card [skip ci]"
+          git push
