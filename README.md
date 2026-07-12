@@ -16,24 +16,14 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-```bash
-$ whoami
-```
-```yaml
-name:        Dhaneshwar R
-role:        AI/ML + Automation Engineer (in training)
-based_in:    Tamil Nadu, India
-graduating:  2026 (B.E Information Technology)
-focus:       n8n workflow automation, LLM tooling,
-             full-stack apps, cloud fundamentals
-currently:   Building freelance income via AI automation
-             + prepping for SDE/technical roles (Zoho track)
-philosophy:  Ship the ugly version first. Fix it in public.
-```
+<!-- Live neofetch-style terminal card — real API data, regenerated daily by scripts/generate_neofetch.py -->
+<img src="https://raw.githubusercontent.com/Dhanesh10war/Dhanesh10war/main/assets/neofetch.svg" width="100%"/>
+
+</div>
+
+<br/>
 
 **What I'm actually doing right now:**
 - ⚙️ Designing enterprise-scale **n8n** workflows for AI ops & customer support pipelines
@@ -41,19 +31,40 @@ philosophy:  Ship the ugly version first. Fix it in public.
 - 🏆 Hackathon finalist — **Smart India Hackathon 2025**, **TANSAM Hackathon 2025**
 - 💼 Exploring freelance automation work for local businesses alongside job-market prep
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanesh10war&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=94a3b8&ring_color=00ff9d" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanesh10war&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanesh10war&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=94a3b8" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧊 3D Contribution Analytics
+
+*Isometric calendar, language breakdown, commit-line history & achievement badges — all analytical, all regenerated daily by `metrics.yml`.*
+
+<img src="https://raw.githubusercontent.com/Dhanesh10war/Dhanesh10war/main/github-metrics.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏙️ Interactive 3D Skyline
+
+GitHub's own [**Skyline**](https://skyline.github.com/Dhanesh10war/2026) tool turns a year of contributions into an orbit-able, downloadable 3D city model — real WebGL, not a static image. GitHub READMEs can't embed live WebGL directly, so here's the honest setup: click through, spin it, and optionally drop a screenshot/GIF of your skyline into `assets/skyline.png` and reference it below.
+
+<a href="https://skyline.github.com/Dhanesh10war/2026">
+  <img src="https://img.shields.io/badge/View%20my%20live%203D%20Skyline-000000?style=for-the-badge&logo=github&logoColor=00ff9d"/>
+</a>
+
+<!-- once you've saved a screenshot/render:
+<img src="assets/skyline.png" width="70%"/>
+-->
 
 </div>
 
