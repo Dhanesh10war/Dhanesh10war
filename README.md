@@ -1,97 +1,149 @@
-<h1 align="center">Hi 👋, I'm Dhaneshwar R</h1>
-<h3 align="center">Final-Year IT Student | Full-Stack Developer | Building AI, ML & Cloud Solutions</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhanesh10war&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/Dhanesh10war?tab=followers"><img src="https://img.shields.io/github/followers/Dhanesh10war?label=Followers&style=social" alt="followers" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Dhaneshwar%20R&fontSize=55&fontColor=00ff9d&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Automation%20%2F%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
 
----
+<a href="https://github.com/Dhanesh10war">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=Final-Year+IT+Student+%7C+2026;Building+AI+%2B+Automation+Systems;n8n+%7C+FastAPI+%7C+Next.js+%7C+LLMs;Hackathon+Finalist+%E2%80%94+SIH+2025+%2F+TANSAM+2025;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 🚀 About Me
+<br/>
 
-- 🎓 Final-year IT student turning ideas into real, working products
-- 💡 Currently building projects across **AI/ML**, **Blockchain**, and **Cybersecurity**
-- 🌱 Constantly learning new tools in the Generative AI and Cloud space
-- 💬 Ask me about Python, React, AI integrations, or blockchain fundamentals
-- 📫 Reach me on [GitHub](https://github.com/Dhanesh10war)
-- ⚡ Fun fact: I like turning weekend ideas into full repositories
+<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=00ff9d&labelColor=000000"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-0f172a?style=for-the-badge&logo=amazonaws&logoColor=00ff9d&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%2F%20Freelance-0f172a?style=for-the-badge&logo=briefcase&logoColor=00ff9d&labelColor=000000"/>
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
----
+```bash
+$ whoami
+```
+```yaml
+name:        Dhaneshwar R
+role:        AI/ML + Automation Engineer (in training)
+based_in:    Tamil Nadu, India
+graduating:  2026 (B.E Information Technology)
+focus:       n8n workflow automation, LLM tooling,
+             full-stack apps, cloud fundamentals
+currently:   Building freelance income via AI automation
+             + prepping for SDE/technical roles (Zoho track)
+philosophy:  Ship the ugly version first. Fix it in public.
+```
 
-### 📌 Featured Projects
+**What I'm actually doing right now:**
+- ⚙️ Designing enterprise-scale **n8n** workflows for AI ops & customer support pipelines
+- 🧠 Shipping small **LLM-powered tools** (chatbots, agents, automations) for real use cases
+- 🏆 Hackathon finalist — **Smart India Hackathon 2025**, **TANSAM Hackathon 2025**
+- 💼 Exploring freelance automation work for local businesses alongside job-market prep
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🤖 <a href="https://github.com/Dhanesh10war/ai-chatbot-python">AI Chatbot (Python)</a></h4>
-      A collection of practical AI chatbot examples integrating Generative AI APIs like Gemini, OpenAI, and Hugging Face.
-    </td>
-    <td width="50%">
-      <h4>⛓️ <a href="https://github.com/Dhanesh10war/Blockchain">Blockchain Project</a></h4>
-      Hands-on implementation of core blockchain concepts — block creation, chain validation, Proof-of-Work, and a basic cryptocurrency model.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🌳 <a href="https://github.com/Dhanesh10war/Cryptonet">Cryptonet</a></h4>
-      A decentralized Blue Carbon Registry & MRV (Monitor, Reporting, Verification) system.
-    </td>
-    <td width="50%">
-      <h4>💼 <a href="https://github.com/Dhanesh10war/AI-Projects">AI/ML Portfolio Website</a></h4>
-      A modern AI/ML Engineer portfolio built with React + Tailwind CSS, showcasing skills, services, and projects.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📚 <a href="https://github.com/Dhanesh10war/Learny-Pal-Bot">Learny Pal Bot</a></h4>
-      A TypeScript-based learning assistant project.
-    </td>
-    <td width="50%">
-      <h4>🛡️ <a href="https://github.com/Dhanesh10war/cybertool">CyberTool</a></h4>
-      A cross-platform cybersecurity desktop app (Python + PyQt6) combining offensive (Red Team) and defensive (Blue Team) operations.
-    </td>
-  </tr>
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanesh10war&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=94a3b8&ring_color=00ff9d" width="100%"/>
+
+</td>
+</tr>
 </table>
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanesh10war&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanesh10war&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=94a3b8" height="180"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanesh10war&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanesh10war&layout=compact&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanesh10war&hide_border=true" alt="streak stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanesh10war&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+<div align="center">
 
----
+### `>_` Tech Stack
 
-### 🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,tailwind,typescript,nodejs,aws,docker,git,postgresql,figma&theme=dark" />
 
-<p align="left">
-  <a href="https://github.com/Dhanesh10war"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/><br/>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Dhanesh10war">Dhanesh10war</a></i></p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Featured Builds
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+
+**[🤖 ai-chatbot-python](https://github.com/Dhanesh10war/ai-chatbot-python)**
+Practical AI chatbot examples wired into Gemini, OpenAI & Hugging Face APIs — conversational patterns you can actually reuse.
+`Python` `LLM APIs`
+
+</td>
+<td width="50%">
+
+**[🔗 Blockchain](https://github.com/Dhanesh10war/Blockchain)**
+From-scratch blockchain: block creation, chain validation, Proof-of-Work, and a basic cryptocurrency model.
+`Python` `PoW`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🌊 Cryptonet](https://github.com/Dhanesh10war/Cryptonet)**
+Decentralized Blue Carbon Registry with Monitoring, Reporting & Verification (MRV) — climate-tech meets Web3.
+`Blockchain` `Climate Tech`
+
+</td>
+<td width="50%">
+
+**[🛡️ cybertool](https://github.com/Dhanesh10war/cybertool)**
+Cross-platform security desktop app (PyQt6) bundling Red Team + Blue Team operations into one toolkit.
+`Python` `PyQt6` `Security`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Dhanesh10war/Dhanesh10war/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+*(3D isometric snake animation — auto-generated daily by the GitHub Action in this repo. See setup note below.)*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's Build Something
+
+<a href="https://github.com/Dhanesh10war"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9d"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9d"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff9d"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9d"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dhanesh10war&label=Profile%20Views&color=00ff9d&style=for-the-badge&labelColor=000000"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
