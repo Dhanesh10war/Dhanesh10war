@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="494" viewBox="0 0 900 494">
+
+        <defs>
+          <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0b0f14"/>
+            <stop offset="100%" stop-color="#111827"/>
+          </linearGradient>
+          <style>
+            .mono { font-family: 'Fira Code','Consolas',monospace; }
+            .title { fill: #00ff9d; font-weight: bold; }
+            .key { fill: #00d4ff; }
+            .val { fill: #cbd5e1; }
+            .art { fill: #00ff9d; opacity: 0.85; }
+            .dim { fill: #64748b; }
+          </style>
+        </defs>
+        <rect x="0" y="0" width="900" height="494" rx="14" fill="url(#bg)" stroke="#00ff9d" stroke-opacity="0.35"/>
+        <circle cx="28" cy="28" r="7" fill="#ff5f56"/>
+        <circle cx="50" cy="28" r="7" fill="#ffbd2e"/>
+        <circle cx="72" cy="28" r="7" fill="#27c93f"/>
+        <text x="450.0" y="33" text-anchor="middle" class="mono dim" font-size="13">Dhanesh10war@github ~ neofetch</text>
+        <line x1="24" y1="46" x2="876" y2="46" stroke="#1f2937"/>
+        
+<text x="40" y="70" class="mono art" font-size="15" xml:space="preserve">     ┌──────────────┐</text>
+<text x="40" y="96" class="mono art" font-size="15" xml:space="preserve">     │ 01001000 01101001</text>
+<text x="40" y="122" class="mono art" font-size="15" xml:space="preserve">     │ ┌──┐  ┌──┐  ┌──┐</text>
+<text x="40" y="148" class="mono art" font-size="15" xml:space="preserve">     │ │01│──│10│──│11│</text>
+<text x="40" y="174" class="mono art" font-size="15" xml:space="preserve">     │ └──┘  └──┘  └──┘</text>
+<text x="40" y="200" class="mono art" font-size="15" xml:space="preserve">     │   │      │     │</text>
+<text x="40" y="226" class="mono art" font-size="15" xml:space="preserve">     │ ┌─┴─┐  ┌─┴─┐ ┌─┴─┐</text>
+<text x="40" y="252" class="mono art" font-size="15" xml:space="preserve">     │ │ D │  │ H │ │ R │</text>
+<text x="40" y="278" class="mono art" font-size="15" xml:space="preserve">     │ └───┘  └───┘ └───┘</text>
+<text x="40" y="304" class="mono art" font-size="15" xml:space="preserve">     │      &gt;_ _______</text>
+<text x="40" y="330" class="mono art" font-size="15" xml:space="preserve">     └──────────────┘</text>
+<text x="430" y="70" class="mono title" font-size="20">Dhaneshwar R</text>
+<text x="430" y="92" class="mono dim" font-size="13">Final-year IT student | Building AI, ML &amp; Cloud solutions | Turning ideas into impact 🚀</text>
+<line x1="430" y1="104" x2="860" y2="104" stroke="#1f2937"/>
+<text x="430" y="130" class="mono key" font-size="14">OS</text>
+<text x="580" y="130" class="mono val" font-size="14">AI-Automation-OS x86_64</text>
+<text x="430" y="156" class="mono key" font-size="14">Host</text>
+<text x="580" y="156" class="mono val" font-size="14">Final-Year B.E. IT (2026)</text>
+<text x="430" y="182" class="mono key" font-size="14">Uptime</text>
+<text x="580" y="182" class="mono val" font-size="14">0y 11m</text>
+<text x="430" y="208" class="mono key" font-size="14">Location</text>
+<text x="580" y="208" class="mono val" font-size="14">Tamil Nadu, India</text>
+<text x="430" y="234" class="mono key" font-size="14">Languages</text>
+<text x="580" y="234" class="mono val" font-size="14">TypeScript, Python, JavaScript, CSS</text>
+<text x="430" y="260" class="mono key" font-size="14">Repos</text>
+<text x="580" y="260" class="mono val" font-size="14">19</text>
+<text x="430" y="286" class="mono key" font-size="14">Stars</text>
+<text x="580" y="286" class="mono val" font-size="14">0</text>
+<text x="430" y="312" class="mono key" font-size="14">Followers</text>
+<text x="580" y="312" class="mono val" font-size="14">1</text>
+<text x="430" y="338" class="mono key" font-size="14">Following</text>
+<text x="580" y="338" class="mono val" font-size="14">1</text>
+<text x="430" y="364" class="mono key" font-size="14">Certs</text>
+<text x="580" y="364" class="mono val" font-size="14">AWS Cloud Practitioner</text>
+<text x="430" y="390" class="mono key" font-size="14">Hackathons</text>
+<text x="580" y="390" class="mono val" font-size="14">SIH 2025 (Finalist), TANSAM 2025 (Finalist)</text>
+<text x="430" y="416" class="mono key" font-size="14">Focus</text>
+<text x="580" y="416" class="mono val" font-size="14">n8n * LLM Tooling * FastAPI * Next.js</text>
+<rect x="430" y="458" width="22" height="14" fill="#0b0f14"/>
+<rect x="456" y="458" width="22" height="14" fill="#ff5f56"/>
+<rect x="482" y="458" width="22" height="14" fill="#27c93f"/>
+<rect x="508" y="458" width="22" height="14" fill="#ffbd2e"/>
+<rect x="534" y="458" width="22" height="14" fill="#00d4ff"/>
+<rect x="560" y="458" width="22" height="14" fill="#a78bfa"/>
+<rect x="586" y="458" width="22" height="14" fill="#00ff9d"/>
+<rect x="612" y="458" width="22" height="14" fill="#cbd5e1"/>
+<text x="24" y="478" class="mono dim" font-size="11">generated 2026-07-13 05:59 UTC — auto-refreshed daily via GitHub Actions</text>
+</svg>
