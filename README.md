@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,50:38bdf8,100:f2a65a&height=220&section=header&text=DHANESHWAR%20R&fontSize=52&fontColor=EDEEF3&fontAlignY=38&desc=AI%20/%20ML%20/%20Cloud%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,50:38bdf8,100:f2a65a&height=220&section=header&text=DHANESHWAR%20R&fontSize=52&fontColor=EDEEF3&fontAlignY=38&desc=Aspiring%20Product%20Manager%20%7C%20APM&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <a href="https://github.com/Dhanesh10war">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Recent+IT+graduate+%F0%9F%8E%93;Building+AI%2C+ML+%26+Cloud+solutions;Turning+ideas+into+impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Recent+IT+graduate+%F0%9F%8E%93;Bridging+tech+and+product+thinking;Seeking+APM+%2F+PM+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-6e56cf?style=for-the-badge&labelColor=12141d" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Blockchain%20%7C%20Cloud-38bdf8?style=for-the-badge&labelColor=12141d" />
+<img src="https://img.shields.io/badge/Open%20to-APM%20%2F%20Product%20Management-38bdf8?style=for-the-badge&labelColor=12141d" />
 
 </div>
 
@@ -17,45 +17,54 @@
 
 ## &nbsp;⚡ About
 
-- 🎓 **IT graduate**, building at the intersection of **AI, ML, and cloud solutions**
-- 🧠 Currently exploring **generative AI integration**, **blockchain consensus**, and **cybersecurity tooling**
-- 🌱 I like systems I can trace end to end — from model call to UI to infra
+- 🎓 **Recent IT graduate** with a hands-on technical foundation in AI, ML, and cloud systems
+- 🧭 Actively transitioning into **Product Management / APM roles** — I want to own the "why" and "what," not just the "how"
+- 🛠️ My engineering background means I can talk to devs, read a roadmap, and reason about tradeoffs without needing a translator
+- 🔍 I care about problems end to end — user pain point → prioritization → build → measure — and I've practiced that loop on my own projects
 - 📫 Reach me through my GitHub — links below
 
 <br/>
 
-## &nbsp;🛠️ Stack
+## &nbsp;🎯 Why Product Management
+
+Every project below started the same way: a real problem, a decision about what *not* to build, and a working solution I shipped and iterated on. That instinct — define the problem before touching the solution — is what pulled me from writing code to wanting to own the product decisions behind it.
+
+<br/>
+
+## &nbsp;🧠 Product & Technical Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,git,github,figma,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Product%20Sense-6e56cf?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Prioritization-38bdf8?style=flat-square&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/User%20Research-f2a65a?style=flat-square&logo=googleforms&logoColor=white" />
+<img src="https://img.shields.io/badge/Roadmapping-6e56cf?style=flat-square&logo=asana&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Generative%20AI-6e56cf?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Blockchain-38bdf8?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/PyQt6-f2a65a?style=flat-square&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Solutions-6e56cf?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,figma,git,github,vscode&theme=dark" />
 
 </div>
 
 <br/>
 
-## &nbsp;📌 Selected Projects
+## &nbsp;📌 Projects — Framed as Product Case Studies
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 [ai-chatbot-python](https://github.com/Dhanesh10war/ai-chatbot-python)
-Practical AI chatbot examples wired to Gemini, OpenAI, and Hugging Face, with reusable conversation logic.
+**Problem:** Developers needed a fast way to prototype conversational AI without re-solving the same integration logic each time.
+**What I did:** Built reusable conversation logic across Gemini, OpenAI, and Hugging Face — reducing setup friction for anyone building on top of it.
 <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### ⛓️ [Blockchain](https://github.com/Dhanesh10war/Blockchain)
-A from-scratch look at block creation, chain validation, proof-of-work, transactions, and a minimal crypto model.
+**Problem:** Understanding trust and consensus mechanisms from first principles, not just theory.
+**What I did:** Built block creation, chain validation, proof-of-work, and a minimal transaction model from scratch to reason about tradeoffs in decentralized systems design.
 <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
@@ -64,14 +73,16 @@ A from-scratch look at block creation, chain validation, proof-of-work, transact
 <td width="50%" valign="top">
 
 ### 🌱 [Cryptonet](https://github.com/Dhanesh10war/Cryptonet)
-A decentralized Blue Carbon Registry with built-in Monitoring, Reporting & Verification (MRV).
+**Problem:** Carbon credit markets lack transparent, verifiable tracking.
+**What I did:** Designed a decentralized Blue Carbon Registry with built-in Monitoring, Reporting & Verification (MRV) — thinking through incentive design and data integrity, not just the tech stack.
 <br/><img src="https://img.shields.io/badge/Web3-6e56cf?style=flat-square&logo=ethereum&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 [AI-Projects](https://github.com/Dhanesh10war/AI-Projects)
-A modern AI/ML engineer portfolio built with React + Tailwind CSS.
+**Problem:** Portfolios often bury real work under generic templates.
+**What I did:** Designed and built a focused, user-friendly portfolio site to clearly communicate project value to a non-technical audience — an early exercise in product storytelling.
 <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </td>
@@ -80,14 +91,16 @@ A modern AI/ML engineer portfolio built with React + Tailwind CSS.
 <td width="50%" valign="top">
 
 ### 📚 [Learny-Pal-Bot](https://github.com/Dhanesh10war/Learny-Pal-Bot)
-A learning companion bot exploring conversational assistance for study workflows.
+**Problem:** Students lack a lightweight companion for staying on track with study workflows.
+**What I did:** Scoped and built a conversational assistant focused on one core use case rather than trying to solve everything at once — an exercise in feature prioritization.
 <br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ [cybertool](https://github.com/Dhanesh10war/cybertool)
-A cross-platform desktop app pairing red-team and blue-team security operations in one PyQt6 interface.
+**Problem:** Security teams juggle separate red-team and blue-team tools, adding friction to workflows.
+**What I did:** Unified both into a single desktop interface, making a deliberate UX call to prioritize workflow continuity over feature sprawl.
 <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 
 </td>
@@ -96,7 +109,7 @@ A cross-platform desktop app pairing red-team and blue-team security operations 
 
 <br/>
 
-## &nbsp;📊 GitHub Stats
+## &nbsp;📊 GitHub Activity
 
 <div align="center">
 
@@ -125,7 +138,7 @@ A cross-platform desktop app pairing red-team and blue-team security operations 
 
 <div align="center">
 
-### Let's connect
+### Let's connect — open to APM / Product Management conversations
 
 <a href="https://github.com/Dhanesh10war"><img src="https://img.shields.io/badge/GitHub-Dhanesh10war-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
