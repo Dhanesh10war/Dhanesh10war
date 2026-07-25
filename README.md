@@ -17,7 +17,7 @@
 
 ## &nbsp;⚡ About
 
-- 🎓 Final-year **IT student**, building at the intersection of **AI, ML, and cloud solutions**
+- 🎓 **IT graduate**, building at the intersection of **AI, ML, and cloud solutions**
 - 🧠 Currently exploring **generative AI integration**, **blockchain consensus**, and **cybersecurity tooling**
 - 🌱 I like systems I can trace end to end — from model call to UI to infra
 - 📫 Reach me through my GitHub — links below
