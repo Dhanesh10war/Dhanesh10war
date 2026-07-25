@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,50:38bdf8,100:f2a65a&height=220&section=header&text=DHANESHWAR%20R&fontSize=52&fontColor=EDEEF3&fontAlignY=38&desc=AI%20/%20ML%20/%20Cloud%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <a href="https://github.com/Dhanesh10war">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Final-year+IT+student+%F0%9F%8E%93;Building+AI%2C+ML+%26+Cloud+solutions;Turning+ideas+into+impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Recent+IT+graduate+%F0%9F%8E%93;Building+AI%2C+ML+%26+Cloud+solutions;Turning+ideas+into+impact+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
