@@ -1,119 +1,149 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,50:38bdf8,100:f2a65a&height=220&section=header&text=DHANESHWAR%20R&fontSize=52&fontColor=EDEEF3&fontAlignY=38&desc=Aspiring%20Product%20Manager%20%7C%20APM&descAlignY=58&descSize=20&animation=fadeIn" />
-
-<a href="https://github.com/Dhanesh10war">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Recent+IT+graduate+%F0%9F%8E%93;Bridging+tech+and+product+thinking;Seeking+APM+%2F+PM+roles+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,50:38bdf8,100:f2a65a&height=220&section=header&text=DHANESHWAR%20R&fontSize=52&fontColor=EDEEF3&fontAlignY=38&desc=Product%20Management%20%7C%20Technology%20%7C%20Entrepreneurship&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-6e56cf?style=for-the-badge&labelColor=12141d" />
-<img src="https://img.shields.io/badge/Open%20to-APM%20%2F%20Product%20Management-38bdf8?style=for-the-badge&labelColor=12141d" />
-
-</div>
-
-<br/>
-
-## &nbsp;⚡ About
-
-- 🎓 **Recent IT graduate** with a hands-on technical foundation in AI, ML, and cloud systems
-- 🧭 Actively transitioning into **Product Management / APM roles** — I want to own the "why" and "what," not just the "how"
-- 🛠️ My engineering background means I can talk to devs, read a roadmap, and reason about tradeoffs without needing a translator
-- 🔍 I care about problems end to end — user pain point → prioritization → build → measure — and I've practiced that loop on my own projects
-- 📫 Reach me through my GitHub — links below
-
-<br/>
-
-## &nbsp;🎯 Why Product Management
-
-Every project below started the same way: a real problem, a decision about what *not* to build, and a working solution I shipped and iterated on. That instinct — define the problem before touching the solution — is what pulled me from writing code to wanting to own the product decisions behind it.
-
-<br/>
-
-## &nbsp;🧠 Product & Technical Toolkit
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Product%20Sense-6e56cf?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Prioritization-38bdf8?style=flat-square&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/User%20Research-f2a65a?style=flat-square&logo=googleforms&logoColor=white" />
-<img src="https://img.shields.io/badge/Roadmapping-6e56cf?style=flat-square&logo=asana&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=IT+Graduate+%7C+Technical+Product+Builder;Exploring+Product+Strategy+%26+Business;Building+AI+%26+Technology+Products;Aspiring+Venture+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,figma,git,github,vscode&theme=dark" />
+<a href="https://dhaneshwar-lab.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6e56cf?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/dhaneshwar-r/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dhanesh10war@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Dhanesh10war">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## &nbsp;📌 Projects — Framed as Product Case Studies
+## 👋 About Me
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+I'm Dhaneshwar, an Information Technology graduate interested in building products, understanding businesses, and exploring how technology can solve meaningful problems.
 
-### 🤖 [ai-chatbot-python](https://github.com/Dhanesh10war/ai-chatbot-python)
-**Problem:** Developers needed a fast way to prototype conversational AI without re-solving the same integration logic each time.
-**What I did:** Built reusable conversation logic across Gemini, OpenAI, and Hugging Face — reducing setup friction for anyone building on top of it.
-<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+My interests lie at the intersection of **Product Management, Technology, and Entrepreneurship.**
 
-</td>
-<td width="50%" valign="top">
+- 🧩 **Product Management:** Exploring product discovery, problem validation, product strategy, prioritization, and user experience.
+- 🚀 **Entrepreneurship:** Interested in identifying opportunities, validating business models, and building scalable businesses.
+- 🤖 **Artificial Intelligence:** Developing practical applications involving LLMs, RAG, document intelligence, and AI automation.
+- 💻 **Technology:** Hands-on experience with Python, SQL, web development, databases, and AI/ML technologies.
+- 📊 **Business & Strategy:** Exploring business models, go-to-market strategy, growth, operations, and market opportunities.
+- 🌱 **Currently:** Building projects, strengthening product and business capabilities, and exploring opportunities in Product Management, Founder's Office, and venture-building roles.
 
-### ⛓️ [Blockchain](https://github.com/Dhanesh10war/Blockchain)
-**Problem:** Understanding trust and consensus mechanisms from first principles, not just theory.
-**What I did:** Built block creation, chain validation, proof-of-work, and a minimal transaction model from scratch to reason about tradeoffs in decentralized systems design.
-<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+I believe meaningful products emerge when technology, customer understanding, and business fundamentals work together.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 🎯 Areas of Interest
 
-### 🌱 [Cryptonet](https://github.com/Dhanesh10war/Cryptonet)
-**Problem:** Carbon credit markets lack transparent, verifiable tracking.
-**What I did:** Designed a decentralized Blue Carbon Registry with built-in Monitoring, Reporting & Verification (MRV) — thinking through incentive design and data integrity, not just the tech stack.
-<br/><img src="https://img.shields.io/badge/Web3-6e56cf?style=flat-square&logo=ethereum&logoColor=white"/>
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Product%20Management-6e56cf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Technology%20Innovation-38bdf8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entrepreneurship-f2a65a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Venture%20Building-6e56cf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-38bdf8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Strategy-f2a65a?style=for-the-badge"/>
 
-### 🧩 [AI-Projects](https://github.com/Dhanesh10war/AI-Projects)
-**Problem:** Portfolios often bury real work under generic templates.
-**What I did:** Designed and built a focused, user-friendly portfolio site to clearly communicate project value to a non-technical audience — an early exercise in product storytelling.
-<br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Technology Stack
 
-### 📚 [Learny-Pal-Bot](https://github.com/Dhanesh10war/Learny-Pal-Bot)
-**Problem:** Students lack a lightweight companion for staying on track with study workflows.
-**What I did:** Scoped and built a conversational assistant focused on one core use case rather than trying to solve everything at once — an exercise in feature prioritization.
-<br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+**Programming & Development**
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,tailwind,git,github,vscode&theme=dark" />
 
-### 🛡️ [cybertool](https://github.com/Dhanesh10war/cybertool)
-**Problem:** Security teams juggle separate red-team and blue-team tools, adding friction to workflows.
-**What I did:** Unified both into a single desktop interface, making a deliberate UX call to prioritize workflow continuity over feature sprawl.
-<br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+**AI, Machine Learning & Data**
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,supabase,redis,docker&theme=dark" />
 
-<br/>
+**Design & Product Tools**
 
-## &nbsp;📊 GitHub Activity
+<img src="https://skillicons.dev/icons?i=figma,canva&theme=dark" />
+
+**Additional Technologies**
+
+`FastAPI` · `Django` · `Flask` · `SQL` · `n8n` · `Ollama` · `Qdrant` · `Neo4j` · `OpenSearch` · `AWS`
+
+## 🚀 Selected Projects & Initiatives
+
+My projects explore practical applications of technology, product development, and problem-solving.
+
+### 🤖 ZHA DocMind AI
+**Enterprise Document Intelligence**
+
+An AI-powered knowledge management solution designed to make organizational documents searchable and conversational.
+
+- Exploring document ingestion, OCR, text extraction, chunking, and embeddings.
+- Building retrieval-augmented generation (RAG) workflows.
+- Developing the backend using FastAPI, PostgreSQL, SQLAlchemy, and vector databases.
+
+`Python` `FastAPI` `PostgreSQL` `RAG` `LLMs`
+
+### 📊 ZHA DataForge
+**Data Engineering & Intelligence**
+
+An initiative exploring data processing, transformation, and structured information workflows.
+
+`Python` `SQL` `Data Engineering`
+
+### 🧠 IntentNet
+**Intent Recognition & Intelligent Systems**
+
+Exploring intelligent systems that understand user intent and translate it into meaningful actions.
+
+`Python` `AI/ML` `NLP`
+
+### 🌊 CarbonVault / Cryptonet
+**Blue Carbon Blockchain MRV**
+
+An exploration of blockchain-based monitoring, reporting, and verification for blue carbon ecosystems.
+
+`Blockchain` `Web3` `Python`
+
+### 💬 AI Chatbot
+**Conversational AI Development**
+
+A Python-based project exploring integrations with multiple LLM providers, including Gemini, OpenAI, and Hugging Face.
+
+`Python` `LLMs` `API Integration`
+
+### 🧩 Other Explorations
+
+- **Phoenix 360:** Women safety analytics.
+- **Harvest:** Farmer-to-consumer platform concept.
+- **Loan Service Provider:** Fintech and lending platform concept.
+- **Embedded Intelligent Microscopy System:** Embedded systems and computer vision.
+
+<sub>Projects and initiatives are at different stages of exploration and development.</sub>
+
+## 🧭 What I'm Exploring
+
+Beyond software development, I'm actively developing my understanding of:
+
+- Product discovery and problem validation.
+- Product requirement documents (PRDs) and user stories.
+- Feature prioritization and product roadmaps.
+- Product metrics and data-driven decision-making.
+- Business model design and market research.
+- Go-to-market strategy and growth.
+- Startup operations and venture development.
+- AI-powered workflows and business automation.
+
+My long-term ambition is to build and scale businesses through a venture-building ecosystem.
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanesh10war&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F2A65A&text_color=EDEEF3" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanesh10war&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=EDEEF3" />
 
 <br/>
@@ -122,9 +152,7 @@ Every project below started the same way: a real problem, a decision about what 
 
 </div>
 
-<br/>
-
-## &nbsp;🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -132,57 +160,42 @@ Every project below started the same way: a real problem, a decision about what 
 
 </div>
 
-> The snake graph above needs a one-time GitHub Action — see setup note at the bottom of this file.
+---
 
-<br/>
+## 🤝 Let's Connect
+
+I'm open to connecting with:
+
+- Product Managers and Product Leaders.
+- Startup founders and entrepreneurs.
+- Venture studios and Founder's Office teams.
+- Developers and AI builders.
+- People interested in building meaningful businesses and technology products.
+
+Whether it's discussing a product idea, exploring a business opportunity, or collaborating on technology, let's connect.
 
 <div align="center">
 
-### Let's connect — open to APM / Product Management conversations
+<a href="https://dhaneshwar-lab.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6e56cf?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<a href="https://github.com/Dhanesh10war"><img src="https://img.shields.io/badge/GitHub-Dhanesh10war-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dhaneshwar-r/">
+<img src="https://img.shields.io/badge/LinkedIn-Dhaneshwar%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dhanesh10war@gmail.com">
+<img src="https://img.shields.io/badge/Email-dhanesh10war%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dhanesh10war">
+<img src="https://img.shields.io/badge/GitHub-Dhanesh10war-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
+
+**Understand. Build. Learn. Scale.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f2a65a,50:38bdf8,100:6e56cf&height=120&section=footer" />
 
 </div>
-
-<!--
-SETUP NOTES (delete this comment once done):
-
-1. This file only works as your GITHUB PROFILE README if it lives at the root of a
-   PUBLIC repo named exactly your username: github.com/Dhanesh10war/Dhanesh10war
-   (Create that repo if it doesn't exist yet, then commit this as README.md.)
-
-2. The stats/streak/lang cards above are third-party services (github-readme-stats,
-   github-readme-streak-stats) that read your PUBLIC activity automatically — no setup needed.
-
-3. To make the snake contribution graph actually appear, add this GitHub Action:
-   .github/workflows/snake.yml
-
-   name: generate snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk/svg-only@v3
-           with:
-             github_user_name: Dhanesh10war
-             outputs: dist/github-contribution-grid-snake.svg
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ "{{ secrets.GITHUB_TOKEN }}" }}
-
-   Commit that file, run it once manually (Actions tab → Run workflow), and the snake
-   image link above will start working.
--->
